@@ -78,14 +78,6 @@ This Power BI project presents a multi-page dashboard that analyzes customer chu
 - Donut, clustered, and stacked visuals for side-by-side comparisons
 - Hover tooltips for detailed insight per segment
 
----
-
-## 📈 How to Use This Dashboard
-
-1. Download and open the `.pbix` file in [Power BI Desktop](https://powerbi.microsoft.com/)
-2. Use slicers (Contract Type, Payment Method) to filter by customer attributes
-3. Navigate between dashboard pages using the side buttons below the slicer pane
-4. Hover over visuals for detailed data breakdowns
 
 ---
 
